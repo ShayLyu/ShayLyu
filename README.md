@@ -1,8 +1,4 @@
-- 👋 Hi, I’m @ShayLyu
-- 👀 I’m interested in coding
-- 🌱 I’m currently learning python
-- 💞️ I’m looking to collaborate on 
-- 📫 How to reach me ...
+AI缝合怪😅 (
 
 <!---
 ShayLyu/ShayLyu is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
